@@ -52,6 +52,3 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 - [Langraph Python](https://langraph.com) for providing the AI framework
 - [Vercel](https://vercel.com) for hosting the project
 
-## Contact
-
-For any questions or inquiries, please contact us at [shobhitagnihotri416gamil.com]().
